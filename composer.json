@@ -1,0 +1,15 @@
+{
+  "name": "greadog/swoole-components",
+  "authors": [
+    {
+      "name": "hooklife",
+      "email": "miaogaopeng123@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Greadog\\SwooleComponents": "src/"
+    }
+  }
+}
